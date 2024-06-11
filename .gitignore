@@ -4,7 +4,6 @@
 
 # Session Data files
 .RData
-.RDataTmp
 
 # User-specific files
 .Ruserdata
@@ -38,12 +37,26 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
 
-# pkgdown site
-docs/
+.vscode
+*.dll
+*.so
+*.o
+*.log
+*.log.lck
+/.metadata/
+inst/doc
+man
 
-# translation temp files
-po/*~
+!inst/outputs
+inst/outputs/*
+!inst/outputs/reference
 
-# RStudio Connect folder
-rsconnect/
+/J4RTmpFile
+/tests/OSM/*.json
+/tests/OSM/*.zml
+/tests/Capsis/*.json
+/tests/Capsis/*.zml
+/tests/FVS/*.json
+/tests/FVS/*.zml

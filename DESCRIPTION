@@ -1,0 +1,16 @@
+Package: CFSMetaModelCommons4R
+Type: Package
+Title: Common Features for Growth and Yield Meta-Modelling in R
+Version: 1.0.0
+Author: Mathieu Fortin, Canadian Wood Fibre Centre, Canadian Forest Service
+Maintainer: Mathieu Fortin <mathieu.fortin.re@gmail.com>
+Copyright: His Majesty the King in right of Canada
+Description: Common features to be used in meta-modelling.
+URL: https://github.com/CWFC-CCFB/CFSMetaModelCommons4R
+Imports:
+  ggplot2 (>= 3.3)
+License: LGPL-3 + file LICENSE
+BugReports: https://github.com/CWFC-CCFB/CFSMetaModelCommons4R/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.0
