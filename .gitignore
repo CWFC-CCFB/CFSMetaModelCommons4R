@@ -47,7 +47,6 @@ vignettes/*.pdf
 *.log.lck
 /.metadata/
 inst/doc
-man
 
 !inst/outputs
 inst/outputs/*
