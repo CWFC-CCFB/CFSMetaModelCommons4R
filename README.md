@@ -1,4 +1,4 @@
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) 
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) [![R-CMD-check](https://github.com/CWFC-CCFB/CFSMetaModelCommons4R/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CWFC-CCFB/CFSMetaModelCommons4R/actions/workflows/R-CMD-check.yaml)
 
 ## CFSMetaModelCommons4R 
 
